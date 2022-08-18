@@ -1,0 +1,10 @@
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+eclipse.project.name = appName + '-core'
+
+dependencies {
+	api "com.badlogicgames.gdx:gdx-box2d:$gdxVersion"
+	api "com.badlogicgames.gdx:gdx-freetype:$gdxVersion"
+	api "com.badlogicgames.gdx:gdx:$gdxVersion"
+	api "games.rednblack.hyperlap2d:runtime-libgdx:$h2dVersion"
+	api "net.onedaybeard.artemis:artemis-odb:$artemisOdbVersion"
+}
