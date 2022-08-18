@@ -1,6 +1,7 @@
 # Hyperlap2D-Starter
 
-A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
+A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) 
+with the main focus on using Hyperlap2d.
 
 Further information follows.
 
